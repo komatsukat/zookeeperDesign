@@ -65,6 +65,7 @@ local.properties
 # Code Recommenders
 .recommenders/
 ### Maven template
+/target
 target/
 pom.xml.tag
 pom.xml.releaseBackup
