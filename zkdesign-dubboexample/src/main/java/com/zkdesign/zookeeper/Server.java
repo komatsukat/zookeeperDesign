@@ -23,13 +23,16 @@ public class Server {
         ServiceConfig<UserService> serviceConfig = new ServiceConfig();
         serviceConfig.setApplication(config);
         serviceConfig.setProtocol(protocolConfig);
-        serviceConfig.setRegistry(new RegistryConfig("zookeeper://112.126.97.242:2181"));
+        serviceConfig.setRegistry(new RegistryConfig("zookeeper://127.0.0.1:2181"));
+
         serviceConfig.setInterface(UserService.class);
         UserServiceImpl ref = new UserServiceImpl();
         serviceConfig.setRef(ref);
+
         //开始提供服务  开张做生意
         serviceConfig.export();
-        System.out.println("服务已开启!端口:"+serviceConfig.getExportedUrls().get(0).getPort());
+
+        System.out.println("服务已开启!端口:" + serviceConfig.getExportedUrls().get(0).getPort());
         ref.setPort(serviceConfig.getExportedUrls().get(0).getPort());
     }
 

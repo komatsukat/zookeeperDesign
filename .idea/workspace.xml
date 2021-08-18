@@ -2,8 +2,37 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="fe16fa44-aeb9-4109-ad7b-48fceb126465" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-data/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/common-data/src/main/java/com/asuka/cons/Constants.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/CreateConnect.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/CreateConnnectFulent.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/CreateData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/RecipesLock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkCientReadData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkClientListener.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkClientTest.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkAuth.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkConsWithSSIDAndPassWD.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkConstructor.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkCreateNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkExistNode.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkGetData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkGetDateCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkSetDataCallBack.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkSetNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-client/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-client/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/DataTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/DataTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkclientTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkclientTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/DataTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/DataTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/DataTest$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/DataTest$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/DataTest$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/DataTest$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/DataTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/DataTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/ZkclientTest$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/ZkclientTest$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/ZkclientTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-client/target/classes/com/zkdesign/zookeeper/ZkclientTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/Client.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/Server.java" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/Server.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/UserServiceImpl.java" beforeDir="false" afterPath="$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/UserServiceImpl.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/zkdesign-web/target/" />
     <ignored path="$PROJECT_DIR$/target/" />
@@ -13,6 +42,7 @@
     <ignored path="$PROJECT_DIR$/zkdesign-client/target/" />
     <ignored path="$PROJECT_DIR$/zkdesign-hardcode/target/" />
     <ignored path="$PROJECT_DIR$/zkdesign-zklock/target/" />
+    <ignored path="$PROJECT_DIR$/common-data/target/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -37,12 +67,12 @@
     <window id="1">
       <content type="file-editors">
         <state>
-          <leaf>
+          <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
             <file pinned="false" current-in-tab="false">
               <entry file="file://$PROJECT_DIR$/docs/zkbase.md">
                 <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
                   <state split_layout="FIRST">
-                    <first_editor relative-caret-position="-4984">
+                    <first_editor relative-caret-position="260">
                       <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="21" />
                     </first_editor>
                     <second_editor />
@@ -107,73 +137,54 @@
         </counts>
       </usages-collector>
     </session>
+    <session id="-1281246080">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="1" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.opened" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="4" />
+          <entry key="java" value="63" />
+          <entry key="md" value="4" />
+          <entry key="properties" value="1" />
+          <entry key="xml" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="4" />
+          <entry key="JAVA" value="63" />
+          <entry key="Markdown" value="4" />
+          <entry key="Properties" value="1" />
+          <entry key="XML" value="15" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="java" value="10632" />
+          <entry key="xml" value="291" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="10632" />
+          <entry key="XML" value="291" />
+        </counts>
+      </usages-collector>
+    </session>
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/README.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="FIRST">
-              <first_editor relative-caret-position="729">
-                <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/zkprocess3.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="-1806">
-                <caret line="103" column="8" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="8" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/zkprocess2.md">
-          <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-            <state split_layout="SPLIT">
-              <first_editor relative-caret-position="168">
-                <caret line="8" column="12" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="12" />
-              </first_editor>
-              <second_editor />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zkdesign-zklock/pom.xml">
+        <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkClientTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="837">
-              <caret line="44" selection-start-line="44" selection-end-line="44" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zkdesign-zklock/src/main/java/com/zkdesign/zklock/Lock.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="42">
-              <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zkdesign-zklock/src/main/resources/log4j.properties">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zkdesign-zklock/src/test/java/LockTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="294">
-              <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+            <state relative-caret-position="676">
+              <caret line="26" column="57" lean-forward="true" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -182,24 +193,22 @@
         </entry>
       </file>
       <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/pom.xml">
-          <provider selected="true" editor-type-id="text-editor" />
-        </entry>
-      </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zkdesign-web/src/main/java/com/zkdesign/zookeeper/MainControl.java">
+        <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkCientReadData.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="252">
-              <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+            <state relative-caret-position="387">
+              <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/zkdesign-zklock/src/main/java/com/zkdesign/zklock/ZookeeperLock.java">
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkClientListener.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="210">
-              <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+            <state relative-caret-position="465">
+              <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -215,6 +224,9 @@
         <option value="Class" />
       </list>
     </option>
+  </component>
+  <component name="FindBugs-IDEA-Workspace">
+    <toolWindowEditorPreview>false</toolWindowEditorPreview>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -235,6 +247,31 @@
         <option value="$PROJECT_DIR$/zkdesign-zklock/src/test/java/LockTest.java" />
         <option value="$PROJECT_DIR$/zkdesign-zklock/pom.xml" />
         <option value="$PROJECT_DIR$/README.md" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkclientTest.java" />
+        <option value="$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/UserServiceImpl.java" />
+        <option value="$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/Server.java" />
+        <option value="$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/Client.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/DataTest.java" />
+        <option value="$PROJECT_DIR$/common-data/src/main/java/com/asuka/cons/Constants.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkConsWithSSIDAndPassWD.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkConstructor.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkSetNode.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkGetDateCallBack.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkGetData.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkCreateNode.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkSetDataCallBack.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkExistNode.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkAuth.java" />
+        <option value="$USER_HOME$/soft/apache-maven-3.5.4/conf/settings.xml" />
+        <option value="$PROJECT_DIR$/pom.xml" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkClientTest.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkCientReadData.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/CreateConnect.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/CreateConnnectFulent.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/CreateData.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/RecipesLock.java" />
+        <option value="$PROJECT_DIR$/zkdesign-client/pom.xml" />
+        <option value="$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkClientListener.java" />
       </list>
     </option>
   </component>
@@ -244,10 +281,33 @@
     <detection-done>true</detection-done>
     <sorting>DEFINITION_ORDER</sorting>
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-7" />
-    <option name="width" value="1934" />
-    <option name="height" value="1047" />
+  <component name="MavenImportPreferences">
+    <option name="generalSettings">
+      <MavenGeneralSettings>
+        <option name="mavenHome" value="$USER_HOME$/soft/apache-maven-3.5.4" />
+        <option name="userSettingsFile" value="$USER_HOME$/soft/apache-maven-3.5.4/conf/settings.xml" />
+      </MavenGeneralSettings>
+    </option>
+    <option name="importingSettings">
+      <MavenImportingSettings>
+        <option name="importAutomatically" value="true" />
+      </MavenImportingSettings>
+    </option>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand>
+        <path>
+          <item name="" type="16c1761:MavenProjectsStructure$RootNode" />
+          <item name="geekQ-zkdesign" type="9519ce18:MavenProjectsStructure$ProjectNode" />
+        </path>
+      </expand>
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" fullScreen="true">
+    <option name="width" value="1680" />
+    <option name="height" value="1050" />
   </component>
   <component name="ProjectId" id="1VvBJvdbeufYtjLn9gAuxUhwARI" />
   <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
@@ -256,6 +316,8 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -263,19 +325,83 @@
               <item name="zookeeperDesign" type="b2602c69:ProjectViewProjectNode" />
               <item name="zookeeperDesign" type="462c0819:PsiDirectoryNode" />
             </path>
+            <path>
+              <item name="zookeeperDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign-client" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign" type="462c0819:PsiDirectoryNode" />
+              <item name="curator" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign" type="462c0819:PsiDirectoryNode" />
+              <item name="zkclient" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="zookeeperDesign" type="b2602c69:ProjectViewProjectNode" />
+              <item name="zookeeperDesign" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign-client" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="zkdesign" type="462c0819:PsiDirectoryNode" />
+              <item name="zookeeper" type="462c0819:PsiDirectoryNode" />
+            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scope" />
-      <pane id="PackagesPane" />
     </panes>
   </component>
   <component name="PropertiesComponent">
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="SearchEverywhereHistoryKey" value="Setting.xml&#9;FILE&#9;file:///Users/chenpeng/soft/apache-maven-3.5.4/conf/settings.xml" />
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1578537228935" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1629248319180" />
     <property name="jdk.selected.JAVA_MODULE" value="1.7" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="node.js.detected.package.eslint" value="true" />
@@ -289,7 +415,7 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.15" />
     <property name="project.structure.side.proportion" value="0.2" />
-    <property name="settings.editor.selected.configurable" value="preferences.keymap" />
+    <property name="settings.editor.selected.configurable" value="MavenSettings" />
   </component>
   <component name="RecentsManager">
     <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
@@ -319,91 +445,91 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="JUnit.MasterResolveTest.MasterTest">
-    <configuration name="Client" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zkdesign.zookeeper.Client" />
-      <module name="zkdesign-dubboexample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zkdesign.zookeeper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Server" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.zkdesign.zookeeper.Server" />
-      <module name="zkdesign-dubboexample" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="com.zkdesign.zookeeper.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="DataTest.getData" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+  <component name="RunManager" selected="Application.ZkClientListener">
+    <configuration name="CreateConnect" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkdesign.curator.CreateConnect" />
       <module name="zkdesign-client" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zkdesign.zookeeper.*" />
+          <option name="PATTERN" value="com.zkdesign.curator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zkdesign.zookeeper" />
-      <option name="MAIN_CLASS_NAME" value="com.zkdesign.zookeeper.DataTest" />
-      <option name="METHOD_NAME" value="getData" />
-      <option name="TEST_OBJECT" value="method" />
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MasterResolveTest.MasterTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
-      <module name="zkdesign-masterjob" />
-      <option name="PACKAGE_NAME" value="" />
-      <option name="MAIN_CLASS_NAME" value="MasterResolveTest" />
-      <option name="METHOD_NAME" value="MasterTest" />
-      <option name="TEST_OBJECT" value="method" />
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="ZkclientTest.createTest" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+    <configuration name="CreateConnnectFulent" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkdesign.curator.CreateConnnectFulent" />
       <module name="zkdesign-client" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.zkdesign.zookeeper.*" />
+          <option name="PATTERN" value="com.zkdesign.curator.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
-      <option name="PACKAGE_NAME" value="com.zkdesign.zookeeper" />
-      <option name="MAIN_CLASS_NAME" value="com.zkdesign.zookeeper.ZkclientTest" />
-      <option name="METHOD_NAME" value="createTest" />
-      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CreateData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkdesign.curator.CreateData" />
+      <module name="zkdesign-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkdesign.curator.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZkCientReadData" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkdesign.zkclient.ZkCientReadData" />
+      <module name="zkdesign-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkdesign.zkclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="ZkClientListener" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.zkdesign.zkclient.ZkClientListener" />
+      <module name="zkdesign-client" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="com.zkdesign.zkclient.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Server" />
-      <item itemvalue="Application.Client" />
-      <item itemvalue="JUnit.ZkclientTest.createTest" />
-      <item itemvalue="JUnit.MasterResolveTest.MasterTest" />
-      <item itemvalue="JUnit.DataTest.getData" />
+      <item itemvalue="Application.ZkClientListener" />
+      <item itemvalue="Application.ZkCientReadData" />
+      <item itemvalue="Application.CreateConnect" />
+      <item itemvalue="Application.CreateConnnectFulent" />
+      <item itemvalue="Application.CreateData" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="JUnit.MasterResolveTest.MasterTest" />
-        <item itemvalue="JUnit.DataTest.getData" />
-        <item itemvalue="Application.Client" />
-        <item itemvalue="Application.Server" />
-        <item itemvalue="JUnit.ZkclientTest.createTest" />
+        <item itemvalue="Application.ZkClientListener" />
+        <item itemvalue="Application.ZkCientReadData" />
+        <item itemvalue="Application.CreateData" />
+        <item itemvalue="Application.CreateConnnectFulent" />
+        <item itemvalue="Application.CreateConnect" />
       </list>
     </recent_temporary>
+  </component>
+  <component name="SshConsoleOptionsProvider">
+    <option name="myEncoding" value="UTF-8" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -421,50 +547,104 @@
       <workItem from="1578218673256" duration="6895000" />
       <workItem from="1578278566072" duration="8297000" />
       <workItem from="1578542389202" duration="4703000" />
+      <workItem from="1625015469436" duration="40014000" />
+      <workItem from="1626419267789" duration="8533000" />
     </task>
     <servers />
   </component>
+  <component name="TestHistory">
+    <history-entry file="DataTest_getDataWatch - 2021.06.30 at 09h 54m 09s.xml">
+      <configuration name="DataTest.getDataWatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_getDataWatch - 2021.06.30 at 09h 57m 31s.xml">
+      <configuration name="DataTest.getDataWatch" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_getDataWatchKeepLive - 2021.06.30 at 10h 00m 41s.xml">
+      <configuration name="DataTest.getDataWatchKeepLive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_getDataWatchKeepLive - 2021.06.30 at 10h 08m 05s.xml">
+      <configuration name="DataTest.getDataWatchKeepLive" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_getChild - 2021.06.30 at 10h 09m 31s.xml">
+      <configuration name="DataTest.getChild" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_getChild - 2021.06.30 at 10h 10m 55s.xml">
+      <configuration name="DataTest.getChild" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_getData4 - 2021.06.30 at 10h 14m 18s.xml">
+      <configuration name="DataTest.getData4" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_createData - 2021.06.30 at 10h 31m 23s.xml">
+      <configuration name="DataTest.createData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_getData - 2021.06.30 at 11h 07m 44s.xml">
+      <configuration name="DataTest.getData" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="DataTest_getChild2 - 2021.06.30 at 11h 38m 31s.xml">
+      <configuration name="DataTest.getChild2" configurationId="JUnit" />
+    </history-entry>
+  </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="13000000" />
+    <option name="totallyTimeSpent" value="61547000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1056" extended-state="6" />
+    <frame x="0" y="0" width="1680" height="1050" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.25346112" />
-      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.4989796" visible="true" weight="0.25641027" />
+      <window_info id="Structure" order="1" sideWeight="0.50102043" side_tool="true" weight="0.25641027" />
       <window_info id="Designer" order="2" />
       <window_info id="Image Layers" order="3" />
       <window_info id="UI Designer" order="4" />
       <window_info id="Favorites" order="5" side_tool="true" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Web" order="7" side_tool="true" />
+      <window_info id="Alibaba Cloud Explorer" order="8" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Find" order="1" />
-      <window_info anchor="bottom" id="Run" order="2" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.4765306" />
       <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="TODO" order="6" />
-      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.32959184" />
+      <window_info anchor="bottom" id="FindBugs-IDEA" order="7" weight="0.32959184" />
       <window_info anchor="bottom" id="Spring" order="8" />
-      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32972974" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32959184" />
       <window_info anchor="bottom" id="CheckStyle" order="10" />
       <window_info anchor="bottom" id="Event Log" order="11" side_tool="true" />
       <window_info anchor="bottom" id="Java Enterprise" order="12" />
       <window_info anchor="bottom" id="Database Changes" order="13" show_stripe_button="false" />
       <window_info anchor="bottom" id="Version Control" order="14" />
       <window_info anchor="bottom" id="LuaCheck" order="15" />
+      <window_info anchor="bottom" id="Codeup" order="16" weight="0.32959184" />
+      <window_info anchor="bottom" id="Run with VisualVM" order="17" />
+      <window_info anchor="bottom" id="Alibaba Cloud View" order="18" weight="0.32959184" />
+      <window_info anchor="bottom" id="Messages" order="19" weight="0.32959184" />
+      <window_info anchor="bottom" id="Debug with VisualVM" order="20" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
-      <window_info anchor="right" id="Maven Projects" order="5" />
+      <window_info anchor="right" id="Maven Projects" order="5" weight="0.1929182" />
       <window_info anchor="right" id="Database" order="6" />
       <window_info anchor="right" id="Palette&#9;" order="7" />
       <window_info anchor="right" id="Theme Preview" order="8" />
       <window_info anchor="right" id="Bean Validation" order="9" />
+      <window_info anchor="right" id="Mybatis datasource" order="10" show_stripe_button="false" side_tool="true" />
+      <window_info anchor="right" id="Alibaba ROS Templates" order="11" />
+      <window_info anchor="right" id="Alibaba Function Compute" order="12" />
+      <window_info anchor="right" id="SciView" order="13" />
+      <window_info anchor="right" id="Alibaba Log Console" order="14" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -492,91 +672,254 @@
   <component name="VcsContentAnnotationSettings">
     <option name="myLimit" value="2678400000" />
   </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkclientTest.java</url>
-          <line>31</line>
-          <properties />
-          <option name="timeStamp" value="1" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
-  </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/zkdesign-lock/src/main/java/com/tuling/zookeeper/lock/Lock.java" />
-    <entry file="file://$PROJECT_DIR$/zkdesign-lock/src/main/java/com/zkdesign/zookeeper/lock/Lock.java" />
-    <entry file="file://$PROJECT_DIR$/zkdesign-hardcode/src/main/java/com/zkdesign/zookeeper/Agent.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-945">
-          <caret line="14" column="3" selection-start-line="14" selection-start-column="3" selection-end-line="14" selection-end-column="3" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zkdesign-lock/pom.xml" />
-    <entry file="file://$PROJECT_DIR$/zkdesign-lock/src/main/java/com/zkdesign/zookeeper/lock/ZookeeperLock.java" />
-    <entry file="file://$PROJECT_DIR$/zkdesign-client/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
     <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkclientTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="147">
-          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        <state relative-caret-position="188">
+          <caret line="12" column="27" lean-forward="true" selection-start-line="12" selection-start-column="27" selection-end-line="12" selection-end-column="27" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zkdesign-zklock/src/main/java/com/zkdesign/zklock/Lock.java">
+    <entry file="jar://$MAVEN_REPOSITORY$/com/alibaba/dubbo/2.6.2/dubbo-2.6.2.jar!/com/alibaba/dubbo/config/RegistryConfig.class">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="42">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        <state relative-caret-position="232">
+          <caret line="70" column="18" selection-start-line="70" selection-start-column="18" selection-end-line="70" selection-end-column="18" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zkdesign-zklock/src/main/resources/log4j.properties">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zkdesign-zklock/src/test/java/LockTest.java">
+    <entry file="file://$PROJECT_DIR$/zkdesign-dubboexample/pom.xml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="294">
-          <caret line="26" column="48" selection-start-line="26" selection-start-column="48" selection-end-line="26" selection-end-column="48" />
+        <state relative-caret-position="114">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/UserService.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="7" column="11" selection-start-line="7" selection-start-column="11" selection-end-line="7" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/UserServiceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="34" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/UserVo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="338">
+          <caret line="14" selection-start-line="14" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/Client.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="491">
+          <caret line="37" column="43" selection-start-line="37" selection-start-column="43" selection-end-line="37" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-dubboexample/src/main/java/com/zkdesign/zookeeper/Server.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="237">
+          <caret line="22" column="38" lean-forward="true" selection-start-line="22" selection-start-column="38" selection-end-line="22" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-hardcode/src/main/java/com/zkdesign/zookeeper/CPUMonitorCalc.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="31" column="35" lean-forward="true" selection-start-line="31" selection-start-column="35" selection-end-line="31" selection-end-column="35" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-hardcode/src/test/java/AgentTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="416">
+          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-data/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/common-data/src/main/java/com/asuka/cons/Constants.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="9" column="15" selection-start-line="9" selection-start-column="11" selection-end-line="9" selection-end-column="15" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.5.5/zookeeper-3.5.5-sources.jar!/org/apache/zookeeper/ZooDefs.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="311">
+          <caret line="102" column="12" selection-start-line="102" selection-start-column="12" selection-end-line="102" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.5.5/zookeeper-3.5.5-sources.jar!/org/apache/zookeeper/Watcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="516">
+          <caret line="140" column="12" selection-start-line="140" selection-start-column="12" selection-end-line="140" selection-end-column="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.5.5/zookeeper-3.5.5-sources.jar!/org/apache/zookeeper/WatchedEvent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="64" column="5" lean-forward="true" selection-start-line="64" selection-start-column="5" selection-end-line="64" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/DataTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="159">
+          <caret line="38" column="40" selection-start-line="38" selection-start-column="40" selection-end-line="38" selection-end-column="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkConstructor.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="260">
+          <caret line="34" column="38" selection-start-line="34" selection-start-column="38" selection-end-line="34" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkSetNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-293">
+          <caret line="35" column="33" selection-start-line="35" selection-start-column="33" selection-end-line="35" selection-end-column="33" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkCreateNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="140">
+          <caret line="12" column="44" lean-forward="true" selection-start-line="12" selection-start-column="44" selection-end-line="12" selection-end-column="44" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkConsWithSSIDAndPassWD.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="40" column="27" selection-start-line="40" selection-start-column="27" selection-end-line="40" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper-jute/3.5.5/zookeeper-jute-3.5.5.jar!/org/apache/zookeeper/proto/ReplyHeader.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="182">
+          <caret line="20" column="13" selection-start-line="20" selection-start-column="13" selection-end-line="20" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper-jute/3.5.5/zookeeper-jute-3.5.5-sources.jar!/org/apache/zookeeper/proto/ReplyHeader.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="156">
+          <caret line="24" column="13" selection-start-line="24" selection-start-column="13" selection-end-line="24" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.5.5/zookeeper-3.5.5-sources.jar!/org/apache/zookeeper/ClientCnxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="430">
+          <caret line="1519" column="21" selection-start-line="1519" selection-start-column="15" selection-end-line="1519" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkSetDataCallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="554">
+          <caret line="48" column="5" selection-start-line="48" selection-start-column="5" selection-end-line="48" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkExistNode.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="371">
+          <caret line="52" column="50" selection-start-line="52" selection-start-column="50" selection-end-line="52" selection-end-column="50" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkAuth.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="105">
+          <caret line="75" column="41" selection-start-line="75" selection-start-column="41" selection-end-line="75" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/soft/apache-maven-3.5.4/conf/settings.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="163">
+          <caret line="48" column="28" lean-forward="true" selection-start-line="48" selection-start-column="28" selection-end-line="48" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.5.5/zookeeper-3.5.5-sources.jar!/org/apache/zookeeper/KeeperException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="53" selection-start-line="53" selection-end-line="53" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$MAVEN_REPOSITORY$/org/apache/zookeeper/zookeeper/3.5.5/zookeeper-3.5.5-sources.jar!/org/apache/zookeeper/ZooKeeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="597">
+          <caret line="1777" column="34" selection-start-line="1777" selection-start-column="34" selection-end-line="1777" selection-end-column="34" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/pom.xml">
-      <provider selected="true" editor-type-id="text-editor" />
-    </entry>
-    <entry file="file://$PROJECT_DIR$/zkdesign-web/src/main/java/com/zkdesign/zookeeper/MainControl.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="252">
-          <caret line="25" column="53" selection-start-line="25" selection-start-column="53" selection-end-line="25" selection-end-column="53" />
+        <state relative-caret-position="237">
+          <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkGetDateCallBack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="244">
+          <caret line="45" lean-forward="true" selection-start-line="45" selection-end-line="45" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zkdesign-zklock/src/main/java/com/zkdesign/zklock/ZookeeperLock.java">
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/CreateConnect.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="210">
-          <caret line="14" column="46" selection-start-line="14" selection-start-column="46" selection-end-line="14" selection-end-column="46" />
+        <state relative-caret-position="546">
+          <caret line="25" column="5" selection-start-line="25" selection-start-column="5" selection-end-line="25" selection-end-column="5" />
           <folding>
             <element signature="imports" expanded="true" />
           </folding>
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/zkdesign-zklock/pom.xml">
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/CreateConnnectFulent.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="837">
-          <caret line="44" selection-start-line="44" selection-end-line="44" />
+        <state relative-caret-position="182">
+          <caret line="11" column="19" selection-start-line="11" selection-start-column="19" selection-end-line="11" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/zkbase.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
         <state split_layout="FIRST">
-          <first_editor relative-caret-position="-4984">
+          <first_editor relative-caret-position="260">
             <caret line="10" column="8" selection-start-line="10" selection-start-column="8" selection-end-line="10" selection-end-column="21" />
           </first_editor>
           <second_editor />
@@ -593,33 +936,147 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/zkprocess2.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="168">
-            <caret line="8" column="12" selection-start-line="8" selection-start-column="8" selection-end-line="8" selection-end-column="12" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/RecipesLock.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="286">
+          <caret line="11" selection-start-line="11" selection-end-line="11" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/zkprocess3.md">
-      <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="SPLIT">
-          <first_editor relative-caret-position="-1806">
-            <caret line="103" column="8" selection-start-line="103" selection-start-column="4" selection-end-line="103" selection-end-column="8" />
-          </first_editor>
-          <second_editor />
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/pom.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="473">
+          <caret line="72" column="43" lean-forward="true" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
+        </state>
+      </provider>
+      <provider editor-type-id="MavenHelperPluginDependencyAnalyzer" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/curator/CreateData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="593">
+          <caret line="38" column="20" selection-start-line="38" selection-start-column="20" selection-end-line="38" selection-end-column="20" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/soft/maven-repository/org/apache/zookeeper/zookeeper/3.4.14/zookeeper-3.4.14-sources.jar!/org/apache/zookeeper/common/PathUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="71" column="44" selection-start-line="71" selection-start-column="44" selection-end-line="71" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zookeeper/ZkGetData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="495">
+          <caret line="38" column="35" selection-start-line="38" selection-start-column="35" selection-end-line="38" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/soft/maven-repository/io/netty/netty-all/4.1.29.Final/netty-all-4.1.29.Final.jar!/io/netty/channel/nio/SelectedSelectionKeySetSelector.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="643">
+          <caret line="53" column="20" selection-start-line="53" selection-start-column="20" selection-end-line="53" selection-end-column="20" />
+          <folding>
+            <element signature="e#1428#1429#0" expanded="true" />
+            <element signature="e#1473#1474#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/soft/maven-repository/org/apache/zookeeper/zookeeper/3.4.14/zookeeper-3.4.14-sources.jar!/org/apache/zookeeper/ClientCnxnSocketNIO.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="344">
+          <caret line="341" column="20" lean-forward="true" selection-start-line="341" selection-start-column="20" selection-end-line="341" selection-end-column="20" />
+          <folding>
+            <element signature="e#12958#12959#0" expanded="true" />
+            <element signature="e#12991#12992#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/soft/maven-repository/org/apache/zookeeper/zookeeper/3.4.14/zookeeper-3.4.14-sources.jar!/org/apache/zookeeper/ZooKeeper.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="1277" column="19" selection-start-line="1277" selection-start-column="19" selection-end-line="1277" selection-end-column="19" />
+          <folding>
+            <element signature="e#11800#11801#0" expanded="true" />
+            <element signature="e#11850#11851#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/soft/maven-repository/org/apache/zookeeper/zookeeper/3.4.14/zookeeper-3.4.14-sources.jar!/org/apache/zookeeper/Watcher.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="747">
+          <caret line="153" column="25" selection-start-line="153" selection-start-column="25" selection-end-line="153" selection-end-column="25" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/soft/maven-repository/org/apache/zookeeper/zookeeper/3.4.14/zookeeper-3.4.14-sources.jar!/org/apache/zookeeper/KeeperException.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="318">
+          <caret line="348" column="8" selection-start-line="348" selection-start-column="8" selection-end-line="348" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$USER_HOME$/soft/maven-repository/org/apache/zookeeper/zookeeper/3.4.14/zookeeper-3.4.14-sources.jar!/org/apache/zookeeper/ClientCnxn.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="461">
+          <caret line="1445" column="29" lean-forward="true" selection-start-line="1445" selection-start-column="29" selection-end-line="1445" selection-end-column="29" />
+          <folding>
+            <element signature="e#28642#33879#0" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-hardcode/src/main/java/com/zkdesign/zookeeper/Agent.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="70">
+          <caret line="48" column="21" lean-forward="true" selection-start-line="48" selection-start-column="21" selection-end-line="48" selection-end-column="21" />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/README.md">
       <provider selected="true" editor-type-id="split-provider[text-editor;markdown-preview-editor]">
-        <state split_layout="FIRST">
-          <first_editor relative-caret-position="729">
-            <caret line="77" column="6" selection-start-line="77" selection-start-column="6" selection-end-line="77" selection-end-column="6" />
-          </first_editor>
+        <state split_layout="SPLIT">
+          <first_editor />
           <second_editor />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkClientTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="676">
+          <caret line="26" column="57" lean-forward="true" selection-start-line="26" selection-start-column="57" selection-end-line="26" selection-end-column="57" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkCientReadData.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="387">
+          <caret line="26" column="35" selection-start-line="26" selection-start-column="35" selection-end-line="26" selection-end-column="35" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/zkdesign-client/src/main/java/com/zkdesign/zkclient/ZkClientListener.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="465">
+          <caret line="25" column="13" lean-forward="true" selection-start-line="25" selection-start-column="13" selection-end-line="25" selection-end-column="13" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
         </state>
       </provider>
     </entry>
@@ -663,7 +1120,7 @@
       </state>
       <state key="JdkListConfigurable.UI">
         <settings>
-          <last-edited>1.7</last-edited>
+          <last-edited>1.6</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>
@@ -675,7 +1132,7 @@
       </state>
       <state key="ModuleStructureConfigurable.UI">
         <settings>
-          <last-edited>zkdesign-zklock</last-edited>
+          <last-edited>common-data</last-edited>
           <splitter-proportions>
             <option name="proportions">
               <list>

@@ -14,9 +14,10 @@
         <module>zkdesign-web</module>
         <module>zkdesign-dubboexample</module>
         <module>zkdesign-masterjob</module>
-        <module>zkdesign-lock</module>
-        <module>zkdesign-lock</module>
+        <!--<module>zkdesign-lock</module>
+        <module>zkdesign-lock</module>-->
         <module>zkdesign-zklock</module>
+        <module>common-data</module>
     </modules>
     <dependencies>
         <dependency>

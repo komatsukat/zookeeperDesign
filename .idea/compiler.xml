@@ -6,6 +6,7 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="common-data" />
         <module name="zkdesign-client" />
         <module name="zkdesign-dubboexample" />
         <module name="zkdesign-hardcode" />

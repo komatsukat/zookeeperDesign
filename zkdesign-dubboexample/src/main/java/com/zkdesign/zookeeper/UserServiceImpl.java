@@ -8,7 +8,7 @@ import java.util.Date;
  **/
 public class UserServiceImpl implements UserService {
 
-    int port;
+    private int port;
 
     @Override
     public UserVo getUser(Integer id) {
